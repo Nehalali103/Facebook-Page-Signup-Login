@@ -160,11 +160,9 @@ form .alreadlogin button {
 
 
 @media screen and (min-width:200px) and (max-width:575px) {
-    body{
-        /* flex-direction: row; */
-    }
+
     .signForm{
-        margin-top: 50px;
+        margin-top: 40px;
         width: 100%;
     }
 
